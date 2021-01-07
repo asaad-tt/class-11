@@ -1,0 +1,81 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.dhaka{
+    text-align: center;
+}
+.one{
+    border-width: 2px;
+    border-style: dotted;
+    border-color: #06db18;
+    margin-left: 206px;
+    margin-right: 247px;
+    margin-top: 61px;
+    
+    
+}
+.pone{
+    background-color: #1ABC9C;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: 20px;
+}
+.ptwo{
+    background-color: #E67E22;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: 70px;
+}
+.pthree{
+    background-color: #9B59B6;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: 120px;
+}
+.head{
+    background-color: #92A2A4;
+    width: 800px;
+    padding: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #ED6D00;
+    margin-left: 30px;
+}
+.pfour{
+    background-color: #2C3E50;
+    color: #ffffff;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3a085c;
+    margin-left: 120px;
+}
+.pfive{
+    background-color: #E74C3C;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #000000;
+    margin-left: 70px;
+}
+.psix{
+    background-color: #2ECC71;
+    width: 500px;
+    padding: 10px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #33013d;
+    margin-left: 20px;
+}
